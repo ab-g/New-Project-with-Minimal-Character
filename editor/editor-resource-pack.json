@@ -1,0 +1,24 @@
+{
+    "id": {
+        "uuid": "B15AF556-C2C2-4D95-8E86-52A0450341B2"
+    },
+    "scenes": [
+        {
+            "key": {
+                "uuid": "1C435217-1F56-4B14-B162-D5571841CD11"
+            },
+            "value": {
+                "id": {
+                    "uuid": "1C435217-1F56-4B14-B162-D5571841CD11"
+                },
+                "position": -1,
+                "timelines": [],
+                "scriptSystem": {
+                    "timelines": []
+                }
+            }
+        }
+    ],
+    "stateMachines": [],
+    "paintGroups": []
+}

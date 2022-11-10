@@ -1,0 +1,11 @@
+{
+    "@class": "RuntimeEngineConfigurationBase",
+    "gameLoop": {
+        "@class": "GameLoopConfigurationBase",
+        "gameLoopType": "ConstantGameSpeedIndependentOfVariableFPS",
+        "gameSpeed": 25.0,
+        "maxDropVisualFrames": 5,
+        "needForInterpolation": true,
+        "renderDebugInformation": false
+    }
+}

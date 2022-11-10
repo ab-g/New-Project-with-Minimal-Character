@@ -1,0 +1,287 @@
+{
+    "@class": "ResourcePack",
+    "cameras": {
+        "@class": "StdResourceMapCamera",
+        "map": [
+            {
+                "key": {
+                    "uuid": "99DE5B61-6462-40B9-A813-FBA5AA0FB737"
+                },
+                "value": {
+                    "@class": "Camera",
+                    "id": {
+                        "uuid": "99DE5B61-6462-40B9-A813-FBA5AA0FB737"
+                    }
+                }
+            }
+        ]
+    },
+    "characters": {
+        "@class": "StdResourceMapCharacter",
+        "map": [
+            {
+                "key": {
+                    "uuid": "229A08F6-437B-4D13-A514-5AA800B5AF01"
+                },
+                "value": {
+                    "@class": "Character",
+                    "id": {
+                        "uuid": "229A08F6-437B-4D13-A514-5AA800B5AF01"
+                    }
+                }
+            }
+        ]
+    },
+    "colliders": {
+        "@class": "StdResourceMapCollider",
+        "map": [
+            {
+                "key": {
+                    "uuid": "0B9B1629-CD3E-4982-8D37-75D22914A580"
+                },
+                "value": {
+                    "@class": "Collider",
+                    "id": {
+                        "uuid": "0B9B1629-CD3E-4982-8D37-75D22914A580"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "3BF92E38-04DF-46A6-A60E-CB76667083A9"
+                },
+                "value": {
+                    "@class": "Collider",
+                    "id": {
+                        "uuid": "3BF92E38-04DF-46A6-A60E-CB76667083A9"
+                    }
+                }
+            }
+        ]
+    },
+    "images": {
+        "@class": "StdResourceMapImage",
+        "map": [
+            {
+                "key": {
+                    "uuid": "1284263D-9E40-4FCD-80F2-DCAE6404FA9A"
+                },
+                "value": {
+                    "@class": "DevILImage",
+                    "id": {
+                        "uuid": "1284263D-9E40-4FCD-80F2-DCAE6404FA9A"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "1C001E23-18E3-46B6-9359-953159C9A342"
+                },
+                "value": {
+                    "@class": "DevILImage",
+                    "id": {
+                        "uuid": "1C001E23-18E3-46B6-9359-953159C9A342"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "4B758090-94E0-4E7D-BEB7-F57A933124EA"
+                },
+                "value": {
+                    "@class": "DevILImage",
+                    "id": {
+                        "uuid": "4B758090-94E0-4E7D-BEB7-F57A933124EA"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "D6B9EBE3-D3D6-444C-8F37-F86FC7039750"
+                },
+                "value": {
+                    "@class": "DevILImage",
+                    "id": {
+                        "uuid": "D6B9EBE3-D3D6-444C-8F37-F86FC7039750"
+                    }
+                }
+            }
+        ]
+    },
+    "lights": {
+        "@class": "StdResourceMapLight",
+        "map": []
+    },
+    "materials": {
+        "@class": "StdResourceMapMaterial",
+        "map": [
+            {
+                "key": {
+                    "uuid": "6DBBDBB9-C9C9-491A-9AB2-253FBE152C04"
+                },
+                "value": {
+                    "@class": "Material",
+                    "id": {
+                        "uuid": "6DBBDBB9-C9C9-491A-9AB2-253FBE152C04"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "DEEDCDD6-7022-4ECA-BAD6-4D115E773014"
+                },
+                "value": {
+                    "@class": "Material",
+                    "id": {
+                        "uuid": "DEEDCDD6-7022-4ECA-BAD6-4D115E773014"
+                    }
+                }
+            }
+        ]
+    },
+    "meshes": {
+        "@class": "StdResourceMapMesh",
+        "map": [
+            {
+                "key": {
+                    "uuid": "2422186E-1F0B-453A-84E8-A005C73503C0"
+                },
+                "value": {
+                    "@class": "SphereMesh",
+                    "id": {
+                        "uuid": "2422186E-1F0B-453A-84E8-A005C73503C0"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "2DFB2E0B-E99A-4A53-8D30-B57257AF17EB"
+                },
+                "value": {
+                    "@class": "Mesh",
+                    "id": {
+                        "uuid": "2DFB2E0B-E99A-4A53-8D30-B57257AF17EB"
+                    }
+                }
+            }
+        ]
+    },
+    "rigidBodies": {
+        "@class": "StdResourceMapPhysicsBody",
+        "map": [
+            {
+                "key": {
+                    "uuid": "70D69DB0-8308-441B-BD47-892C70F11781"
+                },
+                "value": {
+                    "@class": "PhysicsBody",
+                    "id": {
+                        "uuid": "70D69DB0-8308-441B-BD47-892C70F11781"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "8614EDEB-0FE9-4C59-89B4-5D7EA5CBCED3"
+                },
+                "value": {
+                    "@class": "PhysicsBody",
+                    "id": {
+                        "uuid": "8614EDEB-0FE9-4C59-89B4-5D7EA5CBCED3"
+                    }
+                }
+            }
+        ]
+    },
+    "scenes": {
+        "@class": "StdResourceMapScene",
+        "map": [
+            {
+                "key": {
+                    "uuid": "1C435217-1F56-4B14-B162-D5571841CD11"
+                },
+                "value": {
+                    "@class": "BaseScene",
+                    "id": {
+                        "uuid": "1C435217-1F56-4B14-B162-D5571841CD11"
+                    }
+                }
+            }
+        ]
+    },
+    "stateMachines": {
+        "@class": "StdResourceMapStateMachine",
+        "map": [
+            {
+                "key": {
+                    "uuid": "66A0CA63-65E0-4231-BF60-5C4622659C9E"
+                },
+                "value": {
+                    "@class": "StateMachine",
+                    "id": {
+                        "uuid": "66A0CA63-65E0-4231-BF60-5C4622659C9E"
+                    }
+                }
+            }
+        ]
+    },
+    "textures2d": {
+        "@class": "StdResourceMapTexture2D",
+        "map": [
+            {
+                "key": {
+                    "uuid": "426BF2B3-0D9D-4F88-B416-DCD865A07707"
+                },
+                "value": {
+                    "@class": "Texture2D",
+                    "id": {
+                        "uuid": "426BF2B3-0D9D-4F88-B416-DCD865A07707"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "9F6B5CB4-A449-40E5-BC41-C65F6EB0A7F0"
+                },
+                "value": {
+                    "@class": "Texture2D",
+                    "id": {
+                        "uuid": "9F6B5CB4-A449-40E5-BC41-C65F6EB0A7F0"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "B3A09042-7CA0-458E-B399-2EEA573753B7"
+                },
+                "value": {
+                    "@class": "Texture2D",
+                    "id": {
+                        "uuid": "B3A09042-7CA0-458E-B399-2EEA573753B7"
+                    }
+                }
+            },
+            {
+                "key": {
+                    "uuid": "E56994DA-218C-4A53-8B2E-248E6A7475E0"
+                },
+                "value": {
+                    "@class": "Texture2D",
+                    "id": {
+                        "uuid": "E56994DA-218C-4A53-8B2E-248E6A7475E0"
+                    }
+                }
+            }
+        ]
+    },
+    "texturesCube": {
+        "@class": "StdResourceMapTextureCube",
+        "map": []
+    },
+    "defaultCharacterId": {
+        "uuid": "229A08F6-437B-4D13-A514-5AA800B5AF01"
+    },
+    "defaultStateMachineId": {
+        "uuid": "66A0CA63-65E0-4231-BF60-5C4622659C9E"
+    }
+}
